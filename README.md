@@ -10,7 +10,7 @@
 >https://lorexxar.cn/2017/08/31/xss-ali/
 
 在线挑战地址
->http://t.r00tuserclient.xyz/
+>http://t.r00tuserclient.xyz/xianzhi_xss/
 
 ### 题目uri
 1. xss1_uploadfiles
@@ -34,4 +34,4 @@
 21. xss21_othersJquery
 
 ex:
-题目1：http://t.r00tuserclient.xyz/xss1_uploadfiles/
+题目1：http://t.r00tuserclient.xyz/xianzhi_xss/xss1_uploadfiles/
